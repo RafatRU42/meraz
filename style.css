@@ -1,0 +1,23 @@
+/* this is for area calculation */
+.area-calculation {
+    text-decoration: underline;
+}
+
+/* this is for the image section */
+.card-img-top {
+    height: 150px;
+}
+
+
+
+/* this is for blog */
+.blog-li li {
+    list-style-type: decimal;
+}
+
+#area-button {
+    padding: 5px 7px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
